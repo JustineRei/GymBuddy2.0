@@ -77,7 +77,7 @@
           </li>
 
           <li>
-            <a href="pricing.php" class="navbar-link" data-nav-link>Coaches</a>
+            <a href="coaches.php" class="navbar-link" data-nav-link>Coaches</a>
           </li>
 
           <li>

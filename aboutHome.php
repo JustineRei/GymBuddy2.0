@@ -57,7 +57,9 @@
           <li>
             <a href="programsHome.php" class="navbar-link" data-nav-link>Programs</a>
           </li>
-
+          <li>
+            <a href="coaches.php" class="navbar-link active" data-nav-link>Coaches</a>
+          </li>
           <li>
             <a href="pricing.php" class="navbar-link " data-nav-link>Pricing</a>
           </li>

@@ -52,7 +52,9 @@
           <li>
             <a href="programs.php" class="navbar-link active" data-nav-link>Programs</a>
           </li>
-
+          <li>
+            <a href="coaches.php" class="navbar-link active" data-nav-link>Coaches</a>
+          </li>
           <li>
             <a href="https://www.facebook.com/profile.php?id=61559908066456" class="navbar-link  " data-nav-link>Contact Us</a>
           </li>
